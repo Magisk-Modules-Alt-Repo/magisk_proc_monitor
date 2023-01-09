@@ -9,7 +9,7 @@
 
 ## How to use
 
-- Every [dynmount.sh](./magisk-module/dynmount.sh) script in module folder will be run when any app process start.
+- Every [dynmount.sh](./dynmount.sh) script in module folder will be run when any app process start.
 - <https://github.com/Magisk-Modules-Alt-Repo/data_isolation_support> is a good example module.
 
 ## About Zygisk
